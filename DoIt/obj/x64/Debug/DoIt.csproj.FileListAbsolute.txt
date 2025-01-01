@@ -1,0 +1,9 @@
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\bin\x64\Debug\DoIt.exe.config
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\bin\x64\Debug\DoIt.exe
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\bin\x64\Debug\DoIt.pdb
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\obj\x64\Debug\DoIt.csproj.AssemblyReference.cache
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\obj\x64\Debug\DoIt.Properties.Resources.resources
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\obj\x64\Debug\DoIt.csproj.GenerateResource.cache
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\obj\x64\Debug\DoIt.csproj.CoreCompileInputs.cache
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\obj\x64\Debug\DoIt.exe
+C:\Users\admusr\source\repos\FauxRansomware\DoIt\obj\x64\Debug\DoIt.pdb

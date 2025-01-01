@@ -1,0 +1,9 @@
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\bin\x64\Debug\UndoIt.exe.config
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\bin\x64\Debug\UndoIt.exe
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\bin\x64\Debug\UndoIt.pdb
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\obj\x64\Debug\UndoIt.csproj.AssemblyReference.cache
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\obj\x64\Debug\UndoIt.Properties.Resources.resources
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\obj\x64\Debug\UndoIt.csproj.GenerateResource.cache
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\obj\x64\Debug\UndoIt.csproj.CoreCompileInputs.cache
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\obj\x64\Debug\UndoIt.exe
+C:\Users\admusr\source\repos\FauxRansomware\UndoIt\obj\x64\Debug\UndoIt.pdb
