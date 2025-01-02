@@ -17,6 +17,12 @@
 - Drops a ransom note
 - Pops up a Windows message notification 
 
+# Dependencies
+
+This project depends on .NET framework 3.5. Please download it before compiling the project.
+
+Download .NET Framework 3.5 SP1 - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1
+
 # Compilation
 
 Open the project in Visual Studio and build the projects in 'Debug' or 'Release' mode. The compiled binaries will be found in the 'bin' folder of the respective sub-project folders - ".\FauxRansomware\DoIt\bin" and ".\FauxRansomware\UndoIt\bin"
