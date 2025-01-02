@@ -21,7 +21,7 @@
 
 # Dependencies
 
-This project depends on .NET framework 3.5. Please download it before compiling the project.
+This project depends on .NET framework 3.5. Please download it before using the project.
 
 Download .NET Framework 3.5 SP1 - https://dotnet.microsoft.com/en-us/download/dotnet-framework/net35-sp1
 
