@@ -1,5 +1,7 @@
 # FauxRansomware 
 
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/aebac3e2-9193-4b51-82ef-4c22e39d4fdc/d91zk1i-b3fa7931-baac-4b14-b480-83bbb338fa13.png/v1/fill/w_1192,h_670,q_70,strp/ascii_skull_by_nevermorexiii_d91zk1i-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2FlYmFjM2UyLTkxOTMtNGI1MS04MmVmLTRjMjJlMzlkNGZkY1wvZDkxemsxaS1iM2ZhNzkzMS1iYWFjLTRiMTQtYjQ4MC04M2JiYjMzOGZhMTMucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.Bjj1uf7kyEP0NL6XFySr2SKNkaqHI5yityPfHEHC_Q8" border="0" />
+
 <br>A proof-of-concept minimal ransomware project.<br>
 
 *Features*: 
